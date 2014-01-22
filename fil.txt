@@ -1,2 +1,3 @@
 en textfil
-som nu har anpassats för release 1.0
+<<<<<<< HEAD
+som nu har anpassats för release 1.0 (konflikt fixad)
