@@ -1,1 +1,2 @@
 en ny fil som löser issue #2
+en sistaminutenändring i nyfil
