@@ -1,2 +1,2 @@
 en textfil
-som nu har redigerats
+som nu har redigerats och ändrats i i master branch
